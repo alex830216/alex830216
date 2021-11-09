@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex.
+- 👋 Hi, I’m Alex Chiu.
 - 👀 I’m interested in mountain climbing, reading psychology books,and playing video games.
 - 🌱 I’m familiar with Ruby on Rails, HTML, CSS, JavaScript, Tailwindcss, Stimulus, and Git.
 - 💞️ I’m looking to collaborate with company which uses Ruby on Rails.
